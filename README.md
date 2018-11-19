@@ -1,9 +1,18 @@
 # Bootstrap-Portfolio
 
-This portfolio utilizes Bootstrap and the grid layout
+This is my first portfolio website using a Bootstrap framework.
 
-Bonus assignment items include:
+It contains three pages:
+* About - short bio
+* Portfolio - links to upcoming projects
+* Contact - message submission form
 
-* Sticky footer
+This site was built using HTML, CSS, and Bootstrap.
 
-* Sub-rows and sub-columns to overlay text on top oy my images
+&nbsp;
+
+Designed and maintained by Brian Fitzgerald
+
+Email: brianjfitzgerald@gmail.com
+
+&#169; 2018
